@@ -1,6 +1,6 @@
 import tkinter as tk
 window= tk.Tk()
-window.title =("Kurt Dashiel Pacaigue's Profile")
+window.title ("Kurt Dashiel Pacaigue's Profile")
 window.configure(bg="purple")
 window.resizable(False,True)
 window.geometry("600x600")
@@ -10,7 +10,7 @@ studentage = tk.Label(window,text="Age:23 years old",font=("arial",13),bg="purpl
 studentcourse = tk.Label(window,text="Course: BSIT",font=("arial",13),bg="purple",fg="black",width=10,height=2,anchor="w")
 studentbirthday = tk.Label(window,text="Birthday:November 5,2006",font=("arial",13),bg="purple",fg="black",width=10,height=2,anchor="w")
 studentmotto = tk.Label(window,text="Motto:",font=("arial",13),bg="purple",fg="black",width=10,height=2,anchor="w")
-studentmotto1 = tk.Label(window,text="I Always Come Back",font=("arial",13),bg="purple",fg="black",width=10,height=2,anchor="center")
+studentmotto1 = tk.Label(window,text="\"I Always Come Back\"",font=("arial",13,"italic"),bg="purple",fg="black",width=10,height=2,anchor="center")
 
 label.pack(padx=10,pady=5,fill="x",expand=False)
 studentname.pack(padx=10,pady=5,fill="x")
