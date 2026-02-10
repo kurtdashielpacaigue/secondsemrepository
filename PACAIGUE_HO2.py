@@ -1,6 +1,6 @@
 import tkinter as tk
 window= tk.Tk()
-window.title =("WIndow shtt")
+window.title =("Kurt Dashiel Pacaigue's Profile")
 window.configure(bg="purple")
 window.resizable(False,True)
 window.geometry("600x600")
