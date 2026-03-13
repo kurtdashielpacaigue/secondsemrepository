@@ -31,7 +31,7 @@ def add():
     add1=int(entry.get())
     add2=int(entry1.get())
     add3=add1+add2
-    label["text"]=f"the sum of {add1} + {add2} is {add3}."
+    label["text"]=f"The sum of {add1} + {add2} is {add3}."
 
 button=tk.Button(window,text="add",command=add,state="normal")
 button.grid(row=3,column=0)
@@ -40,7 +40,7 @@ def subtract():
     add1=int(entry.get())
     add2=int(entry1.get())
     add3=add1-add2
-    label["text"]=f"the sum of {add1} - {add2} is {add3}."
+    label["text"]=f"The Subtraction of {add1} - {add2} is {add3}."
 
 button=tk.Button(window,text="subtract",command=subtract,state="normal")
 button.grid(row=3,column=1,columnspan=1)
@@ -49,7 +49,7 @@ def multiply():
     add1=int(entry.get())
     add2=int(entry1.get())
     add3=add1*add2
-    label["text"]=f"the sum of {add1} * {add2} is {add3}."
+    label["text"]=f"The multiplication {add1} * {add2} is {add3}."
 
 button=tk.Button(window,text="multiply",command=multiply,state="normal")
 button.grid(row=4,column=0)
@@ -59,7 +59,7 @@ def division():
     add1=int(entry.get())
     add2=int(entry1.get())
     add3=add1/add2
-    label["text"]=f"the sum of {add1} / {add2} is {add3}."
+    label["text"]=f"The Division of {add1} / {add2} is {add3}."
 
 button=tk.Button(window,text="division",command=division,state="normal")
 button.grid(row=4,column=1)
