@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<center>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,th,td{
+            border: 1px solid black;
+            /* border-collapse: collapse; */
+            border-radius: 10px;
+            border-style: double;
+             }
+
+
+    </style>
+</head>
+<body>
+    <h1 style="color:red">Welcome to The F1 Web</h1>
+
+    <p style="font-size: 40px;">Meet The Teams</p>
+
+    <p style="font-size: 40px;"><b>Oracle Redbull Racing</b></p>
+
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhy35fvuVg7Vy7ITo8p0RdkcINZ_ZstjNNj_SGAtsUmpFrMdBYaHtQog&s alt="" width="500" height="300">
+
+    <a href="https://www.redbullracing.com/int-en">
+    <button>Visit F1 Website</button>
+    </a>
+
+    <p>The official <strong>Oracle Red Bull Racing</strong> website (redbullracing.com) serves as the primary digital hub for the Formula 1 team, featuring official team news, technical deep dives into their cars, an online merchandise store, and "The Paddock" fan loyalty program for earning exclusive rewards.</p>
+    
+    <p style="font-size: 40px;"><b>Mercedes-AMG PETRONAS</b></p>
+
+    <img src="https://media.formula1.com/image/upload/c_fit,w_3200,h_1800/q_auto/v1740000001/fom-website/2026/Mercedes/Mercedes-AMG%20F1%20W17%20E%20PERFORMANCE%20-%20KA%207.webp" alt="" width="500" height="300">
+
+    <a href="https://www.mercedesamgf1.com/">
+    <button>Visit F1 Team Website</button>
+    </a>
+
+    <p>The official website for the <strong>Mercedes-AMG PETRONAS Formula One Team</strong> (mercedesamgf1.com) acts as the digital headquarters for the Silver Arrows, offering comprehensive race coverage, team history, interactive fan experiences like Grand Prix prediction games, and an official merchandise shop for team apparel and driver gear.</p>
+   
+    <p style="font-size: 40px;"><b>Scuderia Ferrari</b></p>
+    <img src=https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/fom-website/2026/Ferrari/G_V027BWQAASNgK.webp alt="" width="500" height="300">
+
+      <a href="https://www.ferrari.com/en-EN/formula1">
+    <button>Visit F1 Team Website</button>
+    </a>
+
+    <p>The official website for <Strong>Scuderia Ferrari</Strong> (ferrari.com/en-EN/formula1) serves as the online hub for the legendary Formula 1 team, featuring real-time race updates, technical features on their cars and power units, historical archives celebrating their racing legacy, and an official store for Scuderia Ferrari apparel and fan gear.</p>
+
+    
+
+</body>
+
+</center>
+</html>
